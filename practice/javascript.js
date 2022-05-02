@@ -1,4 +1,4 @@
-var admin, name;
+let admin, name;
 
 name = "John";
 
